@@ -1,0 +1,9 @@
+- Dark mode
+- i18n
+- Skills
+- Experience
+- Education
+- Certifications / courses
+- Contact information
+- Summary
+- Links (LinkedIn, GitHub...)
